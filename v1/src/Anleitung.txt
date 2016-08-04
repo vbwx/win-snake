@@ -1,0 +1,19 @@
+                Snake 1: Anleitung
+
+
+     Willkommen bei Snake 1! Snake ist ja ein
+Spiel, das bereits jedem bekannt sein sollte. Das
+  finnische Unternehmen NOKIA\xA9 hat bereits vor
+  einigen Jahren das Konzept dieses simplen aber
+ doch unterhaltsamen Spieles in die Realit\x84t um-
+  gesetzt und dieses in das Nokia-Mobiltelephon
+    3210 eingebaut. Es hat auch den Usern des
+ Nokia 3210, wie man sieht, viel Freude bereitet,
+               Snake zu spielen...
+
+  Falls jemand mit dem Spiel \"Snake\" noch nicht
+ vertraut ist, sich aber trotzdem den Spa\xE1 nicht
+ entgehen lassen will, sollte im Benutzerhandbuch
+    zu Snake 1 nachschlagen, das der Anwendung
+  (.EXE) als Adobe Acrobat-Dokument (.PDF) bei-
+                      liegt.

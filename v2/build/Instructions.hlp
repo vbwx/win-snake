@@ -1,0 +1,45 @@
+Snake 2.99: Anleitung
+=====================
+
+Steuerung
+                     NUM
+    \      /     \      /
+      Q W E         7 8 9       (beliebige Taste): Pause, bis wieder eine
+     A   D       4 5 6          Steuerungstaste gedrckt wird
+      Y S X         1 2 3      
+    /      \     /      \     [ESC]: Abbruch des Spiels
+
+Das Spiel
+    Ziel ist es, die Schlange im Spielfeld herum zu navigieren, und so viele
+    Sonnen wie m”glich zu verschlingen, ohne sich dabei selber zu beiáen.
+    F„hrt man auf die Wand zu, kommt man auf der gegenberliegenden Seite
+    wieder heraus.
+
+Ebenen & Punkte
+    Es gilt: Je h”her die Ebene, desto mehr Punkte pro Sonne und desto
+    schneller die Schlange.
+    Punkte = Sonnen*Ebene*2 bei aktivierter 'W„nde'-Option
+    Punkte = Sonnen*Ebene   wenn die Option deaktiviert ist
+
+Option 'W„nde'
+    Durch diese Option (im Hauptmen aktivierbar) verh„lt sich Snake II wieder
+    wie Snake 1; man verliert, wenn die Schlange gegen eine Wand kracht.
+
+Vorgeschmack auf Snake 3
+    Man kann Labyrinthe einstellen und selber kreieren; es gibt Bonus-Punkte
+    zu sammeln; es gibt ein Demo und ein Ranking; Spiele k”nnen aufgezeichnet
+    und gesichert werden und noch einiges mehr ...
+
+Troubleshooting
+    Manchmal kann es w„hrend des Spiels passieren, dass eine Sonne direkt in
+    die Schlange platziert wird und so nach kurzer Zeit einfach verschwindet.
+    Sollte dies geschehen, kann man entweder direkt im Spiel oder in der Pause
+    das Zeichen '*' eingeben ([Shift]-[+]), um die Sonne wieder anzuzeigen.
+
+Kontakt zum Programmierer
+    Ich (Bernhard Waldbrunner alias vbwx) bin unter der Adresse
+     vbwx01@gmail.com kontaktierbar! Sie k”nnen mir ein
+    spezifisches Feedback geben, mir Bugs melden und mir Tipps und Vorschl„ge
+    zu Snake geben.
+
+Nun viel Spaá bei Snake II!
