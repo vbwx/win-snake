@@ -1,4 +1,4 @@
-USEUNIT("Snake1.cpp");
+USEUNIT("src\\Snake1.cpp");
 //---------------------------------------------------------------------------
 Diese Datei wird nur vom Projekt-Manager verwendet und sollte wie die Projektdatei behandelt werden
 
