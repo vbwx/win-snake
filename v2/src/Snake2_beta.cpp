@@ -280,17 +280,6 @@ void Instructions (void) {
    cprintf("Hoehere Ebene -> mehr Punkte pro Sonne, aber schnellere Schlange.");
    gotoxy(5, 14);
    cprintf("Ziel: Die Schlange lenken, Sonnen verschlingen, aber nicht sich selbst!");
-   gotoxy(1, 16); cprintf("HINWEIS"); gotoxy(5, 17);
-   cprintf("Die Anleitung ist noch unvollstaendig, da dies ein unveroeffentlichtes");
-   gotoxy(5, 18); cprintf("Werk ist. Ab Snake 3 wird eine ausfuehrliche "
-     "Hilfe existieren."); gotoxy(1, 20);
-   cprintf("Feedback"); gotoxy(5, 21);
-   cprintf("Wenn Sie als Beta-Tester Bugs oder logische Fehler im Spiel ent"
-     "decken,"); gotoxy(5, 22);
-   cprintf("koennen Sie ein Feedback an mich senden.");
-   gotoxy(5, 23);
-   cprintf("E-Mail: "); textcolor(1); cprintf("waldbrunner_bernhard@hotmail.com");
-   textcolor(0); gotoxy(1, 25); cprintf("Nun viel Spass bei Snake 2 beta!");
    getch();
 }  // Instructions: Ende
 
