@@ -6,7 +6,7 @@ Steuerung
     \      /     \      /
       Q W E         7 8 9       (beliebige Taste): Pause, bis wieder eine
      A   D       4 5 6          Steuerungstaste gedrÅckt wird
-      Y S X         1 2 3      
+      Y S X         1 2 3
     /      \     /      \     [ESC]: Abbruch des Spiels
 
 Das Spiel
@@ -35,11 +35,5 @@ Troubleshooting
     die Schlange platziert wird und so nach kurzer Zeit einfach verschwindet.
     Sollte dies geschehen, kann man entweder direkt im Spiel oder in der Pause
     das Zeichen '*' eingeben ([Shift]-[+]), um die Sonne wieder anzuzeigen.
-
-Kontakt zum Programmierer
-    Ich (Bernhard Waldbrunner alias vbwx) bin unter der Adresse
-     vbwx01@gmail.com kontaktierbar! Sie kînnen mir ein
-    spezifisches Feedback geben, mir Bugs melden und mir Tipps und VorschlÑge
-    zu Snake geben.
 
 Nun viel Spa· bei Snake II!

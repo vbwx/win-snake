@@ -1,5 +1,5 @@
 // <vbstrlib.h>: String-Modification Library
-// Copyright (C) 2003 Bernhard Waldbrunner
+// Copyright (C) 2003 vbwx
 // Letzte Aktualisierung: Dienstag, 15. April 2003
 
 // define-Anweisungen #########################################################

@@ -1,4 +1,4 @@
-// Copyright (C) 2003 Bernhard Waldbrunner
+// Copyright (C) 2003 vbwx
 // Snake 2.4 beta
 // Letzte Aktualisierung: Sonntag, 15. Juni 2003
 
@@ -116,7 +116,7 @@ void Background (void) {
    gotoxy (1, 16);
    cprintf ("                   mit den besten Empfehlungen von NOKIA \xA9");
    gotoxy (1, 25);
-   cprintf ("Copyright \xB8 2003 Bernhard Waldbrunner");
+   cprintf ("Copyright \xB8 2003 vbwx");
 }  // Background: Ende
 
 ///////////////////////////////////////////////////////////////////////////////

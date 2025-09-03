@@ -1,4 +1,4 @@
-// Copyright (C) 2003 Bernhard Waldbrunner
+// Copyright (C) 2003 vbwx
 // <vbstrlib.h> String-Modification Library
 // Letzte Aktualisierung: Dienstag, 15. April 2003
 

@@ -1,7 +1,7 @@
 /*
     Snake
     Version 3.1 alpha
-    Copyright (C) 2007 Bernhard Waldbrunner
+    Copyright (C) 2007 vbwx
     Latest Revision: Wed, 03-07-07
 */
 
@@ -70,7 +70,7 @@ void draw_background (void)
         "\xB1\xB1\xB1    \xB1  \xB1  \xB1"
     );
     gotoxy(13, 18);
-    cprintf("Copyright \xB8 2007 Bernhard Waldbrunner");
+    cprintf("Copyright \xB8 2007 vbwx");
     for (i = 1; i<=25; i++) {
         gotoxy(63, i); cprintf("\xB0\xB1\xB2");
     }

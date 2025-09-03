@@ -1,4 +1,4 @@
-// Copyright (c) 2003 Bernhard Waldbrunner
+// Copyright (c) 2003 vbwx
 // Snake 1.7
 // Letzte Aktualisierung: Mon, 2007/01/22
 
@@ -90,7 +90,7 @@ void Background (void) {
          cprintf (" ");
       }
    textcolor (8);
-gotoxy (1, 25); cprintf ("Copyright \xB8 2003 Bernhard Waldbrunner");
+gotoxy (1, 25); cprintf ("Copyright \xB8 2003 vbwx");
    gotoxy (10, 7);
    cprintf (" \xB1\xB1\xB1\xB1\xB1\xB1   \xB1\xB1     \xB1\xB1   \xB1"
    "\xB1\xB1\xB1\xB1\xB1   \xB1\xB1   \xB1\xB1  \xB1\xB1\xB1\xB1"
